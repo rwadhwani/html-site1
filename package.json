@@ -1,0 +1,11 @@
+{
+  "name": "html-site1",
+  "version": "1.0.0",
+  "description": "Load HTML website in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Rajesh Wadhwani",
+  "license": "ISC"
+}
